@@ -1,6 +1,9 @@
 # Hey there, Inquisitive Mind! I'm Avinash Ghadshi 👋
 
-![Profile views](https://gpvc.arturio.dev/[avinash-ghadshi])
+## 📂 Repositories:
+
+- [Repositories](https://github.com/avinash-ghadshi?tab=repositories) - Explore my projects and contributions.
+
 
 ## 👨‍💻 About Me:
 
