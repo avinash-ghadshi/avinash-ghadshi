@@ -23,7 +23,7 @@ I’m Experienced Senior Software Engineer adept at building high-performance, s
 
 ## 🛠️ Skills:
 
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20and%20Algorithms-blue)
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20and%20Algorithms-blue)<br>
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
