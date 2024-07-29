@@ -36,6 +36,11 @@ I’m Experienced Senior Software Engineer adept at building high-performance, s
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=avinash-ghadshi&show_icons=true&count_private=true&hide_title=true&theme=dracula)
 
 
+## :chart_with_upwards_trend: Statistics:
+
+![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinash-ghadshi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
 ## 📫 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-ghadshi/)
